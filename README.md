@@ -42,5 +42,3 @@ Darle vida a sus experiencias a través de algún lenguaje de programación.
 
 !\[FotoPortada](imagenes/ChatGPT-image-30-jun-2026.webp)
 
-
-
