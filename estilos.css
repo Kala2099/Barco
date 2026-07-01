@@ -119,9 +119,10 @@ nav a:hover{
     transition: 0.2s ease;
 }
 nav a{
-	font-size 74px
+	font-size: 74px;
 	padding: 30px 45px;
 }
+
 nav{
 	padding: 30px 20px;
 }
