@@ -105,6 +105,14 @@
 	position: absolute;
 }
 /* ====== Mesa de fragmentos ====== */
+/* ====== Titulos de Header =======*/
+header{
+    text-align: center;
+    padding: 80px 20px;
+
+    background: radial-gradient(circle at top, rgba(255,255,255,0.08), transparent 60%);
+}
+
 
 	.galeria img {
 		width: 500px;
