@@ -17,7 +17,7 @@
 
 	.marco{
 		width: 1000px;
-		min-height: 900px;
+		min-height: 1000px;
 
 		margin: 50px auto;
 		
@@ -45,8 +45,8 @@
 	position: absolute;
 }
 .bridge{
-	top: 899px;
-	left: 724;
+	top: 500px;
+	left: 500;
 	position: absolute;
 }
 .outrun{
@@ -85,7 +85,7 @@
 	position: absolute
 }
 .reina-arruinada{
-	top: 966px;
+	top: 166px;
 	left: 601px;
 	position: absolute;
 }
