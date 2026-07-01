@@ -112,8 +112,12 @@ header{
 
     background: radial-gradient(circle at top, rgba(255,255,255,0.08), transparent 60%);
 }
-
-
+/* ======= estilos de navegación (nav) ======*/
+nav a:hover{
+    background: rgba(255,255,255,0.1);
+    transform: scale(1.05);
+    transition: 0.2s ease;
+}
 	.galeria img {
 		width: 500px;
 		border-radius: 250px;
