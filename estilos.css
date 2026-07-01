@@ -81,18 +81,18 @@
 	position: absolute;
 }
 .nada-ni-nadie{
-	top:462;
-	left:822;
+	top: 462px;
+	left:822px;
 	position: absolute;
 }
 .invictus{
 	top: 30px;
-	left: 20px;
+	left: 999px;
 	position: absolute
 }
 .reina-arruinada{
 	top: 966px;
-	left: 601;
+	left: 601px;
 	position: absolute;
 }
 .viajera-multiversal{
@@ -106,8 +106,8 @@
 	position: absolute;
 }
 .inframundo{
-	top: 066px;
-	left: 500;
+	top: 66px;
+	left: 500px;
 	position: absolute;
 }
 /* ====== Mesa de fragmentos ====== */
