@@ -9,3 +9,15 @@
 		background:black;
 		color: white;
 }
+	.galeria img {
+		width: 200px;
+		border-radius: 10px;
+		transition: transform 0.2s ease;
+		cursor: pointer;
+}
+
+.galeria img:hover {
+	transform: scale(1.05);
+}
+
+
