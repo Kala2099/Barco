@@ -130,6 +130,9 @@ nav{
 	padding: 30px 20px;
 }
 	.galeria img {
+		max-width:90%;
+		margin: auto;
+		padding: 140px
 		width: 500px;
 		border-radius: 250px;
 		transition: transform 0.27s ease;
