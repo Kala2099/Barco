@@ -24,14 +24,16 @@
 
     <main>
 
-        <section>
-            <h2>Bitácora del capitán</h2>
+ <p id="commits">Cargando datos del barco...</p>
 
-            <p>
-                Estoy añadiendo tablones y clavos de baja calidad, y con mi skill de carpinteria en nivel 1. 
-            </p>
-
-        </section>
+<script>
+fetch("https://api.github.com/repos/kala2099/Barco/commits")
+  .then(res => res.json())
+  .then(data => {
+      document.getElementById("commits").innerText =
+          "Commits registrados: " + data.length;
+  });
+</script>
 
         <section>
             <h2>Mensaje a los tripulantes</h2>
