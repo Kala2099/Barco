@@ -140,7 +140,18 @@ nav{
 	transform: scale(1.10);
 }
 
+.boton-mastil{
 
+	font-size: 250px;
+	padding: 50px 70;
 
-
+}
+.commits {
+	font-size: 400px;
+	padding: 40px 50px;
+}
+.mensaje-tripulantes{
+	font-size: 120px;
+	line-height: 1.7
+}
 
