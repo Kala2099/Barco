@@ -31,7 +31,8 @@
 
 
 
-/* ====== Mesa de fragmentos ====== */
+
+/* ====== # Region Mesa de fragmentos ====== */
 
 
 .espiritu-enano{
@@ -104,7 +105,9 @@
 	left: 500px;
 	position: absolute;
 }
-/* ====== Mesa de fragmentos ====== */
+
+/* ====== # Region Mesa de fragmentos ====== */
+
 /* ====== Titulos de Header =======*/
 header{
     text-align: center;
