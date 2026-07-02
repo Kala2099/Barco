@@ -154,4 +154,8 @@ nav{
 	font-size: 120px;
 	line-height: 1.7
 }
-
+.cuadro-barco{
+	position: relative;
+	top: 0px;
+	right: 0px;
+}
